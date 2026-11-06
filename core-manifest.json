@@ -1,0 +1,5 @@
+{
+  "packages/core/src/shunshi_tarot/__init__.py": "ffd62858fa7e77b0c46c7f02ba436851ed23031ce9e063be909e268ac807c948",
+  "packages/core/src/shunshi_tarot/data/cards.json": "f8b59443f2e3d888c3e37158b74149c9d81c09028290c93f246f676942e5a833",
+  "packages/core/src/shunshi_tarot/data/waite_pkt.json": "a4a4cdf2005a25a34e4cb23deffee839c504a0c3cd018822b702aa0545abdf88"
+}

@@ -1,0 +1,2101 @@
+{
+ "deck": "rider-waite-smith",
+ "image_source": "Wikimedia Commons · Category:Rider-Waite-Smith tarot deck (Geldard) · Pamela Colman Smith 1909 · public domain",
+ "correspondence_system": "golden-dawn",
+ "cards": [
+  {
+   "slug": "the-fool",
+   "no": 0,
+   "arcana": "major",
+   "suit": null,
+   "rank": null,
+   "number": 0,
+   "names": {
+    "en": "The Fool",
+    "zh-cn": "愚者",
+    "zh-tw": "愚者",
+    "ja": "愚者",
+    "ko": "바보"
+   },
+   "aliases": {},
+   "element": "air",
+   "astro": {
+    "kind": "element",
+    "key": "air"
+   },
+   "hebrew": {
+    "name": "Aleph",
+    "glyph": "א"
+   },
+   "image": "/r2/tarot/rws/600/the-fool.webp",
+   "thumb": "/r2/tarot/rws/240/the-fool.webp"
+  },
+  {
+   "slug": "the-magician",
+   "no": 1,
+   "arcana": "major",
+   "suit": null,
+   "rank": null,
+   "number": 1,
+   "names": {
+    "en": "The Magician",
+    "zh-cn": "魔术师",
+    "zh-tw": "魔術師",
+    "ja": "魔術師",
+    "ko": "마법사"
+   },
+   "aliases": {},
+   "element": null,
+   "astro": {
+    "kind": "planet",
+    "key": "mercury"
+   },
+   "hebrew": {
+    "name": "Beth",
+    "glyph": "ב"
+   },
+   "image": "/r2/tarot/rws/600/the-magician.webp",
+   "thumb": "/r2/tarot/rws/240/the-magician.webp"
+  },
+  {
+   "slug": "the-high-priestess",
+   "no": 2,
+   "arcana": "major",
+   "suit": null,
+   "rank": null,
+   "number": 2,
+   "names": {
+    "en": "The High Priestess",
+    "zh-cn": "女祭司",
+    "zh-tw": "女祭司",
+    "ja": "女教皇",
+    "ko": "여사제"
+   },
+   "aliases": {
+    "zh-cn": [
+     "女教皇"
+    ],
+    "zh-tw": [
+     "女教皇"
+    ]
+   },
+   "element": null,
+   "astro": {
+    "kind": "planet",
+    "key": "moon"
+   },
+   "hebrew": {
+    "name": "Gimel",
+    "glyph": "ג"
+   },
+   "image": "/r2/tarot/rws/600/the-high-priestess.webp",
+   "thumb": "/r2/tarot/rws/240/the-high-priestess.webp"
+  },
+  {
+   "slug": "the-empress",
+   "no": 3,
+   "arcana": "major",
+   "suit": null,
+   "rank": null,
+   "number": 3,
+   "names": {
+    "en": "The Empress",
+    "zh-cn": "皇后",
+    "zh-tw": "皇后",
+    "ja": "女帝",
+    "ko": "여황제"
+   },
+   "aliases": {},
+   "element": null,
+   "astro": {
+    "kind": "planet",
+    "key": "venus"
+   },
+   "hebrew": {
+    "name": "Daleth",
+    "glyph": "ד"
+   },
+   "image": "/r2/tarot/rws/600/the-empress.webp",
+   "thumb": "/r2/tarot/rws/240/the-empress.webp"
+  },
+  {
+   "slug": "the-emperor",
+   "no": 4,
+   "arcana": "major",
+   "suit": null,
+   "rank": null,
+   "number": 4,
+   "names": {
+    "en": "The Emperor",
+    "zh-cn": "皇帝",
+    "zh-tw": "皇帝",
+    "ja": "皇帝",
+    "ko": "황제"
+   },
+   "aliases": {},
+   "element": null,
+   "astro": {
+    "kind": "sign",
+    "key": "aries"
+   },
+   "hebrew": {
+    "name": "Heh",
+    "glyph": "ה"
+   },
+   "image": "/r2/tarot/rws/600/the-emperor.webp",
+   "thumb": "/r2/tarot/rws/240/the-emperor.webp"
+  },
+  {
+   "slug": "the-hierophant",
+   "no": 5,
+   "arcana": "major",
+   "suit": null,
+   "rank": null,
+   "number": 5,
+   "names": {
+    "en": "The Hierophant",
+    "zh-cn": "教皇",
+    "zh-tw": "教皇",
+    "ja": "教皇",
+    "ko": "교황"
+   },
+   "aliases": {
+    "ko": [
+     "하이로펀트"
+    ],
+    "en": [
+     "The Pope"
+    ]
+   },
+   "element": null,
+   "astro": {
+    "kind": "sign",
+    "key": "taurus"
+   },
+   "hebrew": {
+    "name": "Vav",
+    "glyph": "ו"
+   },
+   "image": "/r2/tarot/rws/600/the-hierophant.webp",
+   "thumb": "/r2/tarot/rws/240/the-hierophant.webp"
+  },
+  {
+   "slug": "the-lovers",
+   "no": 6,
+   "arcana": "major",
+   "suit": null,
+   "rank": null,
+   "number": 6,
+   "names": {
+    "en": "The Lovers",
+    "zh-cn": "恋人",
+    "zh-tw": "戀人",
+    "ja": "恋人",
+    "ko": "연인"
+   },
+   "aliases": {},
+   "element": null,
+   "astro": {
+    "kind": "sign",
+    "key": "gemini"
+   },
+   "hebrew": {
+    "name": "Zayin",
+    "glyph": "ז"
+   },
+   "image": "/r2/tarot/rws/600/the-lovers.webp",
+   "thumb": "/r2/tarot/rws/240/the-lovers.webp"
+  },
+  {
+   "slug": "the-chariot",
+   "no": 7,
+   "arcana": "major",
+   "suit": null,
+   "rank": null,
+   "number": 7,
+   "names": {
+    "en": "The Chariot",
+    "zh-cn": "战车",
+    "zh-tw": "戰車",
+    "ja": "戦車",
+    "ko": "전차"
+   },
+   "aliases": {},
+   "element": null,
+   "astro": {
+    "kind": "sign",
+    "key": "cancer"
+   },
+   "hebrew": {
+    "name": "Cheth",
+    "glyph": "ח"
+   },
+   "image": "/r2/tarot/rws/600/the-chariot.webp",
+   "thumb": "/r2/tarot/rws/240/the-chariot.webp"
+  },
+  {
+   "slug": "strength",
+   "no": 8,
+   "arcana": "major",
+   "suit": null,
+   "rank": null,
+   "number": 8,
+   "names": {
+    "en": "Strength",
+    "zh-cn": "力量",
+    "zh-tw": "力量",
+    "ja": "力",
+    "ko": "힘"
+   },
+   "aliases": {
+    "en": [
+     "Fortitude"
+    ]
+   },
+   "element": null,
+   "astro": {
+    "kind": "sign",
+    "key": "leo"
+   },
+   "hebrew": {
+    "name": "Teth",
+    "glyph": "ט"
+   },
+   "image": "/r2/tarot/rws/600/strength.webp",
+   "thumb": "/r2/tarot/rws/240/strength.webp"
+  },
+  {
+   "slug": "the-hermit",
+   "no": 9,
+   "arcana": "major",
+   "suit": null,
+   "rank": null,
+   "number": 9,
+   "names": {
+    "en": "The Hermit",
+    "zh-cn": "隐者",
+    "zh-tw": "隱者",
+    "ja": "隠者",
+    "ko": "은둔자"
+   },
+   "aliases": {},
+   "element": null,
+   "astro": {
+    "kind": "sign",
+    "key": "virgo"
+   },
+   "hebrew": {
+    "name": "Yod",
+    "glyph": "י"
+   },
+   "image": "/r2/tarot/rws/600/the-hermit.webp",
+   "thumb": "/r2/tarot/rws/240/the-hermit.webp"
+  },
+  {
+   "slug": "wheel-of-fortune",
+   "no": 10,
+   "arcana": "major",
+   "suit": null,
+   "rank": null,
+   "number": 10,
+   "names": {
+    "en": "Wheel of Fortune",
+    "zh-cn": "命运之轮",
+    "zh-tw": "命運之輪",
+    "ja": "運命の輪",
+    "ko": "운명의 수레바퀴"
+   },
+   "aliases": {},
+   "element": null,
+   "astro": {
+    "kind": "planet",
+    "key": "jupiter"
+   },
+   "hebrew": {
+    "name": "Kaph",
+    "glyph": "כ"
+   },
+   "image": "/r2/tarot/rws/600/wheel-of-fortune.webp",
+   "thumb": "/r2/tarot/rws/240/wheel-of-fortune.webp"
+  },
+  {
+   "slug": "justice",
+   "no": 11,
+   "arcana": "major",
+   "suit": null,
+   "rank": null,
+   "number": 11,
+   "names": {
+    "en": "Justice",
+    "zh-cn": "正义",
+    "zh-tw": "正義",
+    "ja": "正義",
+    "ko": "정의"
+   },
+   "aliases": {},
+   "element": null,
+   "astro": {
+    "kind": "sign",
+    "key": "libra"
+   },
+   "hebrew": {
+    "name": "Lamed",
+    "glyph": "ל"
+   },
+   "image": "/r2/tarot/rws/600/justice.webp",
+   "thumb": "/r2/tarot/rws/240/justice.webp"
+  },
+  {
+   "slug": "the-hanged-man",
+   "no": 12,
+   "arcana": "major",
+   "suit": null,
+   "rank": null,
+   "number": 12,
+   "names": {
+    "en": "The Hanged Man",
+    "zh-cn": "倒吊人",
+    "zh-tw": "倒吊人",
+    "ja": "吊るされた男",
+    "ko": "매달린 남자"
+   },
+   "aliases": {},
+   "element": "water",
+   "astro": {
+    "kind": "element",
+    "key": "water"
+   },
+   "hebrew": {
+    "name": "Mem",
+    "glyph": "מ"
+   },
+   "image": "/r2/tarot/rws/600/the-hanged-man.webp",
+   "thumb": "/r2/tarot/rws/240/the-hanged-man.webp"
+  },
+  {
+   "slug": "death",
+   "no": 13,
+   "arcana": "major",
+   "suit": null,
+   "rank": null,
+   "number": 13,
+   "names": {
+    "en": "Death",
+    "zh-cn": "死神",
+    "zh-tw": "死神",
+    "ja": "死神",
+    "ko": "죽음"
+   },
+   "aliases": {},
+   "element": null,
+   "astro": {
+    "kind": "sign",
+    "key": "scorpio"
+   },
+   "hebrew": {
+    "name": "Nun",
+    "glyph": "נ"
+   },
+   "image": "/r2/tarot/rws/600/death.webp",
+   "thumb": "/r2/tarot/rws/240/death.webp"
+  },
+  {
+   "slug": "temperance",
+   "no": 14,
+   "arcana": "major",
+   "suit": null,
+   "rank": null,
+   "number": 14,
+   "names": {
+    "en": "Temperance",
+    "zh-cn": "节制",
+    "zh-tw": "節制",
+    "ja": "節制",
+    "ko": "절제"
+   },
+   "aliases": {
+    "ko": [
+     "템퍼런스"
+    ]
+   },
+   "element": null,
+   "astro": {
+    "kind": "sign",
+    "key": "sagittarius"
+   },
+   "hebrew": {
+    "name": "Samekh",
+    "glyph": "ס"
+   },
+   "image": "/r2/tarot/rws/600/temperance.webp",
+   "thumb": "/r2/tarot/rws/240/temperance.webp"
+  },
+  {
+   "slug": "the-devil",
+   "no": 15,
+   "arcana": "major",
+   "suit": null,
+   "rank": null,
+   "number": 15,
+   "names": {
+    "en": "The Devil",
+    "zh-cn": "恶魔",
+    "zh-tw": "惡魔",
+    "ja": "悪魔",
+    "ko": "악마"
+   },
+   "aliases": {},
+   "element": null,
+   "astro": {
+    "kind": "sign",
+    "key": "capricorn"
+   },
+   "hebrew": {
+    "name": "Ayin",
+    "glyph": "ע"
+   },
+   "image": "/r2/tarot/rws/600/the-devil.webp",
+   "thumb": "/r2/tarot/rws/240/the-devil.webp"
+  },
+  {
+   "slug": "the-tower",
+   "no": 16,
+   "arcana": "major",
+   "suit": null,
+   "rank": null,
+   "number": 16,
+   "names": {
+    "en": "The Tower",
+    "zh-cn": "高塔",
+    "zh-tw": "高塔",
+    "ja": "塔",
+    "ko": "탑"
+   },
+   "aliases": {
+    "zh-cn": [
+     "塔"
+    ],
+    "zh-tw": [
+     "塔"
+    ]
+   },
+   "element": null,
+   "astro": {
+    "kind": "planet",
+    "key": "mars"
+   },
+   "hebrew": {
+    "name": "Peh",
+    "glyph": "פ"
+   },
+   "image": "/r2/tarot/rws/600/the-tower.webp",
+   "thumb": "/r2/tarot/rws/240/the-tower.webp"
+  },
+  {
+   "slug": "the-star",
+   "no": 17,
+   "arcana": "major",
+   "suit": null,
+   "rank": null,
+   "number": 17,
+   "names": {
+    "en": "The Star",
+    "zh-cn": "星星",
+    "zh-tw": "星星",
+    "ja": "星",
+    "ko": "별"
+   },
+   "aliases": {},
+   "element": null,
+   "astro": {
+    "kind": "sign",
+    "key": "aquarius"
+   },
+   "hebrew": {
+    "name": "Tzaddi",
+    "glyph": "צ"
+   },
+   "image": "/r2/tarot/rws/600/the-star.webp",
+   "thumb": "/r2/tarot/rws/240/the-star.webp"
+  },
+  {
+   "slug": "the-moon",
+   "no": 18,
+   "arcana": "major",
+   "suit": null,
+   "rank": null,
+   "number": 18,
+   "names": {
+    "en": "The Moon",
+    "zh-cn": "月亮",
+    "zh-tw": "月亮",
+    "ja": "月",
+    "ko": "달"
+   },
+   "aliases": {},
+   "element": null,
+   "astro": {
+    "kind": "sign",
+    "key": "pisces"
+   },
+   "hebrew": {
+    "name": "Qoph",
+    "glyph": "ק"
+   },
+   "image": "/r2/tarot/rws/600/the-moon.webp",
+   "thumb": "/r2/tarot/rws/240/the-moon.webp"
+  },
+  {
+   "slug": "the-sun",
+   "no": 19,
+   "arcana": "major",
+   "suit": null,
+   "rank": null,
+   "number": 19,
+   "names": {
+    "en": "The Sun",
+    "zh-cn": "太阳",
+    "zh-tw": "太陽",
+    "ja": "太陽",
+    "ko": "태양"
+   },
+   "aliases": {},
+   "element": null,
+   "astro": {
+    "kind": "planet",
+    "key": "sun"
+   },
+   "hebrew": {
+    "name": "Resh",
+    "glyph": "ר"
+   },
+   "image": "/r2/tarot/rws/600/the-sun.webp",
+   "thumb": "/r2/tarot/rws/240/the-sun.webp"
+  },
+  {
+   "slug": "judgement",
+   "no": 20,
+   "arcana": "major",
+   "suit": null,
+   "rank": null,
+   "number": 20,
+   "names": {
+    "en": "Judgement",
+    "zh-cn": "审判",
+    "zh-tw": "審判",
+    "ja": "審判",
+    "ko": "심판"
+   },
+   "aliases": {
+    "en": [
+     "Judgment",
+     "The Last Judgment"
+    ]
+   },
+   "element": "fire",
+   "astro": {
+    "kind": "element",
+    "key": "fire"
+   },
+   "hebrew": {
+    "name": "Shin",
+    "glyph": "ש"
+   },
+   "image": "/r2/tarot/rws/600/judgement.webp",
+   "thumb": "/r2/tarot/rws/240/judgement.webp"
+  },
+  {
+   "slug": "the-world",
+   "no": 21,
+   "arcana": "major",
+   "suit": null,
+   "rank": null,
+   "number": 21,
+   "names": {
+    "en": "The World",
+    "zh-cn": "世界",
+    "zh-tw": "世界",
+    "ja": "世界",
+    "ko": "세계"
+   },
+   "aliases": {},
+   "element": null,
+   "astro": {
+    "kind": "planet",
+    "key": "saturn"
+   },
+   "hebrew": {
+    "name": "Tav",
+    "glyph": "ת"
+   },
+   "image": "/r2/tarot/rws/600/the-world.webp",
+   "thumb": "/r2/tarot/rws/240/the-world.webp"
+  },
+  {
+   "slug": "ace-of-wands",
+   "no": 22,
+   "arcana": "minor",
+   "suit": "wands",
+   "rank": "ace",
+   "number": 1,
+   "names": {
+    "en": "Ace of Wands",
+    "zh-cn": "权杖王牌",
+    "zh-tw": "權杖王牌",
+    "ja": "ワンドのエース",
+    "ko": "완드 에이스"
+   },
+   "aliases": {},
+   "element": "fire",
+   "astro": {
+    "kind": "root",
+    "key": "fire"
+   },
+   "hebrew": null,
+   "image": "/r2/tarot/rws/600/ace-of-wands.webp",
+   "thumb": "/r2/tarot/rws/240/ace-of-wands.webp"
+  },
+  {
+   "slug": "two-of-wands",
+   "no": 23,
+   "arcana": "minor",
+   "suit": "wands",
+   "rank": "two",
+   "number": 2,
+   "names": {
+    "en": "Two of Wands",
+    "zh-cn": "权杖二",
+    "zh-tw": "權杖二",
+    "ja": "ワンドの2",
+    "ko": "완드 2"
+   },
+   "aliases": {},
+   "element": "fire",
+   "astro": {
+    "kind": "decan",
+    "planet": "mars",
+    "sign": "aries",
+    "degrees": "0-10"
+   },
+   "hebrew": null,
+   "image": "/r2/tarot/rws/600/two-of-wands.webp",
+   "thumb": "/r2/tarot/rws/240/two-of-wands.webp"
+  },
+  {
+   "slug": "three-of-wands",
+   "no": 24,
+   "arcana": "minor",
+   "suit": "wands",
+   "rank": "three",
+   "number": 3,
+   "names": {
+    "en": "Three of Wands",
+    "zh-cn": "权杖三",
+    "zh-tw": "權杖三",
+    "ja": "ワンドの3",
+    "ko": "완드 3"
+   },
+   "aliases": {},
+   "element": "fire",
+   "astro": {
+    "kind": "decan",
+    "planet": "sun",
+    "sign": "aries",
+    "degrees": "10-20"
+   },
+   "hebrew": null,
+   "image": "/r2/tarot/rws/600/three-of-wands.webp",
+   "thumb": "/r2/tarot/rws/240/three-of-wands.webp"
+  },
+  {
+   "slug": "four-of-wands",
+   "no": 25,
+   "arcana": "minor",
+   "suit": "wands",
+   "rank": "four",
+   "number": 4,
+   "names": {
+    "en": "Four of Wands",
+    "zh-cn": "权杖四",
+    "zh-tw": "權杖四",
+    "ja": "ワンドの4",
+    "ko": "완드 4"
+   },
+   "aliases": {},
+   "element": "fire",
+   "astro": {
+    "kind": "decan",
+    "planet": "venus",
+    "sign": "aries",
+    "degrees": "20-30"
+   },
+   "hebrew": null,
+   "image": "/r2/tarot/rws/600/four-of-wands.webp",
+   "thumb": "/r2/tarot/rws/240/four-of-wands.webp"
+  },
+  {
+   "slug": "five-of-wands",
+   "no": 26,
+   "arcana": "minor",
+   "suit": "wands",
+   "rank": "five",
+   "number": 5,
+   "names": {
+    "en": "Five of Wands",
+    "zh-cn": "权杖五",
+    "zh-tw": "權杖五",
+    "ja": "ワンドの5",
+    "ko": "완드 5"
+   },
+   "aliases": {},
+   "element": "fire",
+   "astro": {
+    "kind": "decan",
+    "planet": "saturn",
+    "sign": "leo",
+    "degrees": "0-10"
+   },
+   "hebrew": null,
+   "image": "/r2/tarot/rws/600/five-of-wands.webp",
+   "thumb": "/r2/tarot/rws/240/five-of-wands.webp"
+  },
+  {
+   "slug": "six-of-wands",
+   "no": 27,
+   "arcana": "minor",
+   "suit": "wands",
+   "rank": "six",
+   "number": 6,
+   "names": {
+    "en": "Six of Wands",
+    "zh-cn": "权杖六",
+    "zh-tw": "權杖六",
+    "ja": "ワンドの6",
+    "ko": "완드 6"
+   },
+   "aliases": {},
+   "element": "fire",
+   "astro": {
+    "kind": "decan",
+    "planet": "jupiter",
+    "sign": "leo",
+    "degrees": "10-20"
+   },
+   "hebrew": null,
+   "image": "/r2/tarot/rws/600/six-of-wands.webp",
+   "thumb": "/r2/tarot/rws/240/six-of-wands.webp"
+  },
+  {
+   "slug": "seven-of-wands",
+   "no": 28,
+   "arcana": "minor",
+   "suit": "wands",
+   "rank": "seven",
+   "number": 7,
+   "names": {
+    "en": "Seven of Wands",
+    "zh-cn": "权杖七",
+    "zh-tw": "權杖七",
+    "ja": "ワンドの7",
+    "ko": "완드 7"
+   },
+   "aliases": {},
+   "element": "fire",
+   "astro": {
+    "kind": "decan",
+    "planet": "mars",
+    "sign": "leo",
+    "degrees": "20-30"
+   },
+   "hebrew": null,
+   "image": "/r2/tarot/rws/600/seven-of-wands.webp",
+   "thumb": "/r2/tarot/rws/240/seven-of-wands.webp"
+  },
+  {
+   "slug": "eight-of-wands",
+   "no": 29,
+   "arcana": "minor",
+   "suit": "wands",
+   "rank": "eight",
+   "number": 8,
+   "names": {
+    "en": "Eight of Wands",
+    "zh-cn": "权杖八",
+    "zh-tw": "權杖八",
+    "ja": "ワンドの8",
+    "ko": "완드 8"
+   },
+   "aliases": {},
+   "element": "fire",
+   "astro": {
+    "kind": "decan",
+    "planet": "mercury",
+    "sign": "sagittarius",
+    "degrees": "0-10"
+   },
+   "hebrew": null,
+   "image": "/r2/tarot/rws/600/eight-of-wands.webp",
+   "thumb": "/r2/tarot/rws/240/eight-of-wands.webp"
+  },
+  {
+   "slug": "nine-of-wands",
+   "no": 30,
+   "arcana": "minor",
+   "suit": "wands",
+   "rank": "nine",
+   "number": 9,
+   "names": {
+    "en": "Nine of Wands",
+    "zh-cn": "权杖九",
+    "zh-tw": "權杖九",
+    "ja": "ワンドの9",
+    "ko": "완드 9"
+   },
+   "aliases": {},
+   "element": "fire",
+   "astro": {
+    "kind": "decan",
+    "planet": "moon",
+    "sign": "sagittarius",
+    "degrees": "10-20"
+   },
+   "hebrew": null,
+   "image": "/r2/tarot/rws/600/nine-of-wands.webp",
+   "thumb": "/r2/tarot/rws/240/nine-of-wands.webp"
+  },
+  {
+   "slug": "ten-of-wands",
+   "no": 31,
+   "arcana": "minor",
+   "suit": "wands",
+   "rank": "ten",
+   "number": 10,
+   "names": {
+    "en": "Ten of Wands",
+    "zh-cn": "权杖十",
+    "zh-tw": "權杖十",
+    "ja": "ワンドの10",
+    "ko": "완드 10"
+   },
+   "aliases": {},
+   "element": "fire",
+   "astro": {
+    "kind": "decan",
+    "planet": "saturn",
+    "sign": "sagittarius",
+    "degrees": "20-30"
+   },
+   "hebrew": null,
+   "image": "/r2/tarot/rws/600/ten-of-wands.webp",
+   "thumb": "/r2/tarot/rws/240/ten-of-wands.webp"
+  },
+  {
+   "slug": "page-of-wands",
+   "no": 32,
+   "arcana": "minor",
+   "suit": "wands",
+   "rank": "page",
+   "number": null,
+   "names": {
+    "en": "Page of Wands",
+    "zh-cn": "权杖侍从",
+    "zh-tw": "權杖侍從",
+    "ja": "ワンドのペイジ",
+    "ko": "완드 페이지"
+   },
+   "aliases": {},
+   "element": "fire",
+   "astro": null,
+   "hebrew": null,
+   "image": "/r2/tarot/rws/600/page-of-wands.webp",
+   "thumb": "/r2/tarot/rws/240/page-of-wands.webp"
+  },
+  {
+   "slug": "knight-of-wands",
+   "no": 33,
+   "arcana": "minor",
+   "suit": "wands",
+   "rank": "knight",
+   "number": null,
+   "names": {
+    "en": "Knight of Wands",
+    "zh-cn": "权杖骑士",
+    "zh-tw": "權杖騎士",
+    "ja": "ワンドのナイト",
+    "ko": "완드 나이트"
+   },
+   "aliases": {},
+   "element": "fire",
+   "astro": null,
+   "hebrew": null,
+   "image": "/r2/tarot/rws/600/knight-of-wands.webp",
+   "thumb": "/r2/tarot/rws/240/knight-of-wands.webp"
+  },
+  {
+   "slug": "queen-of-wands",
+   "no": 34,
+   "arcana": "minor",
+   "suit": "wands",
+   "rank": "queen",
+   "number": null,
+   "names": {
+    "en": "Queen of Wands",
+    "zh-cn": "权杖王后",
+    "zh-tw": "權杖王后",
+    "ja": "ワンドのクイーン",
+    "ko": "완드 퀸"
+   },
+   "aliases": {},
+   "element": "fire",
+   "astro": null,
+   "hebrew": null,
+   "image": "/r2/tarot/rws/600/queen-of-wands.webp",
+   "thumb": "/r2/tarot/rws/240/queen-of-wands.webp"
+  },
+  {
+   "slug": "king-of-wands",
+   "no": 35,
+   "arcana": "minor",
+   "suit": "wands",
+   "rank": "king",
+   "number": null,
+   "names": {
+    "en": "King of Wands",
+    "zh-cn": "权杖国王",
+    "zh-tw": "權杖國王",
+    "ja": "ワンドのキング",
+    "ko": "완드 킹"
+   },
+   "aliases": {},
+   "element": "fire",
+   "astro": null,
+   "hebrew": null,
+   "image": "/r2/tarot/rws/600/king-of-wands.webp",
+   "thumb": "/r2/tarot/rws/240/king-of-wands.webp"
+  },
+  {
+   "slug": "ace-of-cups",
+   "no": 36,
+   "arcana": "minor",
+   "suit": "cups",
+   "rank": "ace",
+   "number": 1,
+   "names": {
+    "en": "Ace of Cups",
+    "zh-cn": "圣杯王牌",
+    "zh-tw": "聖杯王牌",
+    "ja": "カップのエース",
+    "ko": "컵 에이스"
+   },
+   "aliases": {},
+   "element": "water",
+   "astro": {
+    "kind": "root",
+    "key": "water"
+   },
+   "hebrew": null,
+   "image": "/r2/tarot/rws/600/ace-of-cups.webp",
+   "thumb": "/r2/tarot/rws/240/ace-of-cups.webp"
+  },
+  {
+   "slug": "two-of-cups",
+   "no": 37,
+   "arcana": "minor",
+   "suit": "cups",
+   "rank": "two",
+   "number": 2,
+   "names": {
+    "en": "Two of Cups",
+    "zh-cn": "圣杯二",
+    "zh-tw": "聖杯二",
+    "ja": "カップの2",
+    "ko": "컵 2"
+   },
+   "aliases": {},
+   "element": "water",
+   "astro": {
+    "kind": "decan",
+    "planet": "venus",
+    "sign": "cancer",
+    "degrees": "0-10"
+   },
+   "hebrew": null,
+   "image": "/r2/tarot/rws/600/two-of-cups.webp",
+   "thumb": "/r2/tarot/rws/240/two-of-cups.webp"
+  },
+  {
+   "slug": "three-of-cups",
+   "no": 38,
+   "arcana": "minor",
+   "suit": "cups",
+   "rank": "three",
+   "number": 3,
+   "names": {
+    "en": "Three of Cups",
+    "zh-cn": "圣杯三",
+    "zh-tw": "聖杯三",
+    "ja": "カップの3",
+    "ko": "컵 3"
+   },
+   "aliases": {},
+   "element": "water",
+   "astro": {
+    "kind": "decan",
+    "planet": "mercury",
+    "sign": "cancer",
+    "degrees": "10-20"
+   },
+   "hebrew": null,
+   "image": "/r2/tarot/rws/600/three-of-cups.webp",
+   "thumb": "/r2/tarot/rws/240/three-of-cups.webp"
+  },
+  {
+   "slug": "four-of-cups",
+   "no": 39,
+   "arcana": "minor",
+   "suit": "cups",
+   "rank": "four",
+   "number": 4,
+   "names": {
+    "en": "Four of Cups",
+    "zh-cn": "圣杯四",
+    "zh-tw": "聖杯四",
+    "ja": "カップの4",
+    "ko": "컵 4"
+   },
+   "aliases": {},
+   "element": "water",
+   "astro": {
+    "kind": "decan",
+    "planet": "moon",
+    "sign": "cancer",
+    "degrees": "20-30"
+   },
+   "hebrew": null,
+   "image": "/r2/tarot/rws/600/four-of-cups.webp",
+   "thumb": "/r2/tarot/rws/240/four-of-cups.webp"
+  },
+  {
+   "slug": "five-of-cups",
+   "no": 40,
+   "arcana": "minor",
+   "suit": "cups",
+   "rank": "five",
+   "number": 5,
+   "names": {
+    "en": "Five of Cups",
+    "zh-cn": "圣杯五",
+    "zh-tw": "聖杯五",
+    "ja": "カップの5",
+    "ko": "컵 5"
+   },
+   "aliases": {},
+   "element": "water",
+   "astro": {
+    "kind": "decan",
+    "planet": "mars",
+    "sign": "scorpio",
+    "degrees": "0-10"
+   },
+   "hebrew": null,
+   "image": "/r2/tarot/rws/600/five-of-cups.webp",
+   "thumb": "/r2/tarot/rws/240/five-of-cups.webp"
+  },
+  {
+   "slug": "six-of-cups",
+   "no": 41,
+   "arcana": "minor",
+   "suit": "cups",
+   "rank": "six",
+   "number": 6,
+   "names": {
+    "en": "Six of Cups",
+    "zh-cn": "圣杯六",
+    "zh-tw": "聖杯六",
+    "ja": "カップの6",
+    "ko": "컵 6"
+   },
+   "aliases": {},
+   "element": "water",
+   "astro": {
+    "kind": "decan",
+    "planet": "sun",
+    "sign": "scorpio",
+    "degrees": "10-20"
+   },
+   "hebrew": null,
+   "image": "/r2/tarot/rws/600/six-of-cups.webp",
+   "thumb": "/r2/tarot/rws/240/six-of-cups.webp"
+  },
+  {
+   "slug": "seven-of-cups",
+   "no": 42,
+   "arcana": "minor",
+   "suit": "cups",
+   "rank": "seven",
+   "number": 7,
+   "names": {
+    "en": "Seven of Cups",
+    "zh-cn": "圣杯七",
+    "zh-tw": "聖杯七",
+    "ja": "カップの7",
+    "ko": "컵 7"
+   },
+   "aliases": {},
+   "element": "water",
+   "astro": {
+    "kind": "decan",
+    "planet": "venus",
+    "sign": "scorpio",
+    "degrees": "20-30"
+   },
+   "hebrew": null,
+   "image": "/r2/tarot/rws/600/seven-of-cups.webp",
+   "thumb": "/r2/tarot/rws/240/seven-of-cups.webp"
+  },
+  {
+   "slug": "eight-of-cups",
+   "no": 43,
+   "arcana": "minor",
+   "suit": "cups",
+   "rank": "eight",
+   "number": 8,
+   "names": {
+    "en": "Eight of Cups",
+    "zh-cn": "圣杯八",
+    "zh-tw": "聖杯八",
+    "ja": "カップの8",
+    "ko": "컵 8"
+   },
+   "aliases": {},
+   "element": "water",
+   "astro": {
+    "kind": "decan",
+    "planet": "saturn",
+    "sign": "pisces",
+    "degrees": "0-10"
+   },
+   "hebrew": null,
+   "image": "/r2/tarot/rws/600/eight-of-cups.webp",
+   "thumb": "/r2/tarot/rws/240/eight-of-cups.webp"
+  },
+  {
+   "slug": "nine-of-cups",
+   "no": 44,
+   "arcana": "minor",
+   "suit": "cups",
+   "rank": "nine",
+   "number": 9,
+   "names": {
+    "en": "Nine of Cups",
+    "zh-cn": "圣杯九",
+    "zh-tw": "聖杯九",
+    "ja": "カップの9",
+    "ko": "컵 9"
+   },
+   "aliases": {},
+   "element": "water",
+   "astro": {
+    "kind": "decan",
+    "planet": "jupiter",
+    "sign": "pisces",
+    "degrees": "10-20"
+   },
+   "hebrew": null,
+   "image": "/r2/tarot/rws/600/nine-of-cups.webp",
+   "thumb": "/r2/tarot/rws/240/nine-of-cups.webp"
+  },
+  {
+   "slug": "ten-of-cups",
+   "no": 45,
+   "arcana": "minor",
+   "suit": "cups",
+   "rank": "ten",
+   "number": 10,
+   "names": {
+    "en": "Ten of Cups",
+    "zh-cn": "圣杯十",
+    "zh-tw": "聖杯十",
+    "ja": "カップの10",
+    "ko": "컵 10"
+   },
+   "aliases": {},
+   "element": "water",
+   "astro": {
+    "kind": "decan",
+    "planet": "mars",
+    "sign": "pisces",
+    "degrees": "20-30"
+   },
+   "hebrew": null,
+   "image": "/r2/tarot/rws/600/ten-of-cups.webp",
+   "thumb": "/r2/tarot/rws/240/ten-of-cups.webp"
+  },
+  {
+   "slug": "page-of-cups",
+   "no": 46,
+   "arcana": "minor",
+   "suit": "cups",
+   "rank": "page",
+   "number": null,
+   "names": {
+    "en": "Page of Cups",
+    "zh-cn": "圣杯侍从",
+    "zh-tw": "聖杯侍從",
+    "ja": "カップのペイジ",
+    "ko": "컵 페이지"
+   },
+   "aliases": {},
+   "element": "water",
+   "astro": null,
+   "hebrew": null,
+   "image": "/r2/tarot/rws/600/page-of-cups.webp",
+   "thumb": "/r2/tarot/rws/240/page-of-cups.webp"
+  },
+  {
+   "slug": "knight-of-cups",
+   "no": 47,
+   "arcana": "minor",
+   "suit": "cups",
+   "rank": "knight",
+   "number": null,
+   "names": {
+    "en": "Knight of Cups",
+    "zh-cn": "圣杯骑士",
+    "zh-tw": "聖杯騎士",
+    "ja": "カップのナイト",
+    "ko": "컵 나이트"
+   },
+   "aliases": {},
+   "element": "water",
+   "astro": null,
+   "hebrew": null,
+   "image": "/r2/tarot/rws/600/knight-of-cups.webp",
+   "thumb": "/r2/tarot/rws/240/knight-of-cups.webp"
+  },
+  {
+   "slug": "queen-of-cups",
+   "no": 48,
+   "arcana": "minor",
+   "suit": "cups",
+   "rank": "queen",
+   "number": null,
+   "names": {
+    "en": "Queen of Cups",
+    "zh-cn": "圣杯王后",
+    "zh-tw": "聖杯王后",
+    "ja": "カップのクイーン",
+    "ko": "컵 퀸"
+   },
+   "aliases": {},
+   "element": "water",
+   "astro": null,
+   "hebrew": null,
+   "image": "/r2/tarot/rws/600/queen-of-cups.webp",
+   "thumb": "/r2/tarot/rws/240/queen-of-cups.webp"
+  },
+  {
+   "slug": "king-of-cups",
+   "no": 49,
+   "arcana": "minor",
+   "suit": "cups",
+   "rank": "king",
+   "number": null,
+   "names": {
+    "en": "King of Cups",
+    "zh-cn": "圣杯国王",
+    "zh-tw": "聖杯國王",
+    "ja": "カップのキング",
+    "ko": "컵 킹"
+   },
+   "aliases": {},
+   "element": "water",
+   "astro": null,
+   "hebrew": null,
+   "image": "/r2/tarot/rws/600/king-of-cups.webp",
+   "thumb": "/r2/tarot/rws/240/king-of-cups.webp"
+  },
+  {
+   "slug": "ace-of-swords",
+   "no": 50,
+   "arcana": "minor",
+   "suit": "swords",
+   "rank": "ace",
+   "number": 1,
+   "names": {
+    "en": "Ace of Swords",
+    "zh-cn": "宝剑王牌",
+    "zh-tw": "寶劍王牌",
+    "ja": "ソードのエース",
+    "ko": "소드 에이스"
+   },
+   "aliases": {},
+   "element": "air",
+   "astro": {
+    "kind": "root",
+    "key": "air"
+   },
+   "hebrew": null,
+   "image": "/r2/tarot/rws/600/ace-of-swords.webp",
+   "thumb": "/r2/tarot/rws/240/ace-of-swords.webp"
+  },
+  {
+   "slug": "two-of-swords",
+   "no": 51,
+   "arcana": "minor",
+   "suit": "swords",
+   "rank": "two",
+   "number": 2,
+   "names": {
+    "en": "Two of Swords",
+    "zh-cn": "宝剑二",
+    "zh-tw": "寶劍二",
+    "ja": "ソードの2",
+    "ko": "소드 2"
+   },
+   "aliases": {},
+   "element": "air",
+   "astro": {
+    "kind": "decan",
+    "planet": "moon",
+    "sign": "libra",
+    "degrees": "0-10"
+   },
+   "hebrew": null,
+   "image": "/r2/tarot/rws/600/two-of-swords.webp",
+   "thumb": "/r2/tarot/rws/240/two-of-swords.webp"
+  },
+  {
+   "slug": "three-of-swords",
+   "no": 52,
+   "arcana": "minor",
+   "suit": "swords",
+   "rank": "three",
+   "number": 3,
+   "names": {
+    "en": "Three of Swords",
+    "zh-cn": "宝剑三",
+    "zh-tw": "寶劍三",
+    "ja": "ソードの3",
+    "ko": "소드 3"
+   },
+   "aliases": {},
+   "element": "air",
+   "astro": {
+    "kind": "decan",
+    "planet": "saturn",
+    "sign": "libra",
+    "degrees": "10-20"
+   },
+   "hebrew": null,
+   "image": "/r2/tarot/rws/600/three-of-swords.webp",
+   "thumb": "/r2/tarot/rws/240/three-of-swords.webp"
+  },
+  {
+   "slug": "four-of-swords",
+   "no": 53,
+   "arcana": "minor",
+   "suit": "swords",
+   "rank": "four",
+   "number": 4,
+   "names": {
+    "en": "Four of Swords",
+    "zh-cn": "宝剑四",
+    "zh-tw": "寶劍四",
+    "ja": "ソードの4",
+    "ko": "소드 4"
+   },
+   "aliases": {},
+   "element": "air",
+   "astro": {
+    "kind": "decan",
+    "planet": "jupiter",
+    "sign": "libra",
+    "degrees": "20-30"
+   },
+   "hebrew": null,
+   "image": "/r2/tarot/rws/600/four-of-swords.webp",
+   "thumb": "/r2/tarot/rws/240/four-of-swords.webp"
+  },
+  {
+   "slug": "five-of-swords",
+   "no": 54,
+   "arcana": "minor",
+   "suit": "swords",
+   "rank": "five",
+   "number": 5,
+   "names": {
+    "en": "Five of Swords",
+    "zh-cn": "宝剑五",
+    "zh-tw": "寶劍五",
+    "ja": "ソードの5",
+    "ko": "소드 5"
+   },
+   "aliases": {},
+   "element": "air",
+   "astro": {
+    "kind": "decan",
+    "planet": "venus",
+    "sign": "aquarius",
+    "degrees": "0-10"
+   },
+   "hebrew": null,
+   "image": "/r2/tarot/rws/600/five-of-swords.webp",
+   "thumb": "/r2/tarot/rws/240/five-of-swords.webp"
+  },
+  {
+   "slug": "six-of-swords",
+   "no": 55,
+   "arcana": "minor",
+   "suit": "swords",
+   "rank": "six",
+   "number": 6,
+   "names": {
+    "en": "Six of Swords",
+    "zh-cn": "宝剑六",
+    "zh-tw": "寶劍六",
+    "ja": "ソードの6",
+    "ko": "소드 6"
+   },
+   "aliases": {},
+   "element": "air",
+   "astro": {
+    "kind": "decan",
+    "planet": "mercury",
+    "sign": "aquarius",
+    "degrees": "10-20"
+   },
+   "hebrew": null,
+   "image": "/r2/tarot/rws/600/six-of-swords.webp",
+   "thumb": "/r2/tarot/rws/240/six-of-swords.webp"
+  },
+  {
+   "slug": "seven-of-swords",
+   "no": 56,
+   "arcana": "minor",
+   "suit": "swords",
+   "rank": "seven",
+   "number": 7,
+   "names": {
+    "en": "Seven of Swords",
+    "zh-cn": "宝剑七",
+    "zh-tw": "寶劍七",
+    "ja": "ソードの7",
+    "ko": "소드 7"
+   },
+   "aliases": {},
+   "element": "air",
+   "astro": {
+    "kind": "decan",
+    "planet": "moon",
+    "sign": "aquarius",
+    "degrees": "20-30"
+   },
+   "hebrew": null,
+   "image": "/r2/tarot/rws/600/seven-of-swords.webp",
+   "thumb": "/r2/tarot/rws/240/seven-of-swords.webp"
+  },
+  {
+   "slug": "eight-of-swords",
+   "no": 57,
+   "arcana": "minor",
+   "suit": "swords",
+   "rank": "eight",
+   "number": 8,
+   "names": {
+    "en": "Eight of Swords",
+    "zh-cn": "宝剑八",
+    "zh-tw": "寶劍八",
+    "ja": "ソードの8",
+    "ko": "소드 8"
+   },
+   "aliases": {},
+   "element": "air",
+   "astro": {
+    "kind": "decan",
+    "planet": "jupiter",
+    "sign": "gemini",
+    "degrees": "0-10"
+   },
+   "hebrew": null,
+   "image": "/r2/tarot/rws/600/eight-of-swords.webp",
+   "thumb": "/r2/tarot/rws/240/eight-of-swords.webp"
+  },
+  {
+   "slug": "nine-of-swords",
+   "no": 58,
+   "arcana": "minor",
+   "suit": "swords",
+   "rank": "nine",
+   "number": 9,
+   "names": {
+    "en": "Nine of Swords",
+    "zh-cn": "宝剑九",
+    "zh-tw": "寶劍九",
+    "ja": "ソードの9",
+    "ko": "소드 9"
+   },
+   "aliases": {},
+   "element": "air",
+   "astro": {
+    "kind": "decan",
+    "planet": "mars",
+    "sign": "gemini",
+    "degrees": "10-20"
+   },
+   "hebrew": null,
+   "image": "/r2/tarot/rws/600/nine-of-swords.webp",
+   "thumb": "/r2/tarot/rws/240/nine-of-swords.webp"
+  },
+  {
+   "slug": "ten-of-swords",
+   "no": 59,
+   "arcana": "minor",
+   "suit": "swords",
+   "rank": "ten",
+   "number": 10,
+   "names": {
+    "en": "Ten of Swords",
+    "zh-cn": "宝剑十",
+    "zh-tw": "寶劍十",
+    "ja": "ソードの10",
+    "ko": "소드 10"
+   },
+   "aliases": {},
+   "element": "air",
+   "astro": {
+    "kind": "decan",
+    "planet": "sun",
+    "sign": "gemini",
+    "degrees": "20-30"
+   },
+   "hebrew": null,
+   "image": "/r2/tarot/rws/600/ten-of-swords.webp",
+   "thumb": "/r2/tarot/rws/240/ten-of-swords.webp"
+  },
+  {
+   "slug": "page-of-swords",
+   "no": 60,
+   "arcana": "minor",
+   "suit": "swords",
+   "rank": "page",
+   "number": null,
+   "names": {
+    "en": "Page of Swords",
+    "zh-cn": "宝剑侍从",
+    "zh-tw": "寶劍侍從",
+    "ja": "ソードのペイジ",
+    "ko": "소드 페이지"
+   },
+   "aliases": {},
+   "element": "air",
+   "astro": null,
+   "hebrew": null,
+   "image": "/r2/tarot/rws/600/page-of-swords.webp",
+   "thumb": "/r2/tarot/rws/240/page-of-swords.webp"
+  },
+  {
+   "slug": "knight-of-swords",
+   "no": 61,
+   "arcana": "minor",
+   "suit": "swords",
+   "rank": "knight",
+   "number": null,
+   "names": {
+    "en": "Knight of Swords",
+    "zh-cn": "宝剑骑士",
+    "zh-tw": "寶劍騎士",
+    "ja": "ソードのナイト",
+    "ko": "소드 나이트"
+   },
+   "aliases": {},
+   "element": "air",
+   "astro": null,
+   "hebrew": null,
+   "image": "/r2/tarot/rws/600/knight-of-swords.webp",
+   "thumb": "/r2/tarot/rws/240/knight-of-swords.webp"
+  },
+  {
+   "slug": "queen-of-swords",
+   "no": 62,
+   "arcana": "minor",
+   "suit": "swords",
+   "rank": "queen",
+   "number": null,
+   "names": {
+    "en": "Queen of Swords",
+    "zh-cn": "宝剑王后",
+    "zh-tw": "寶劍王后",
+    "ja": "ソードのクイーン",
+    "ko": "소드 퀸"
+   },
+   "aliases": {},
+   "element": "air",
+   "astro": null,
+   "hebrew": null,
+   "image": "/r2/tarot/rws/600/queen-of-swords.webp",
+   "thumb": "/r2/tarot/rws/240/queen-of-swords.webp"
+  },
+  {
+   "slug": "king-of-swords",
+   "no": 63,
+   "arcana": "minor",
+   "suit": "swords",
+   "rank": "king",
+   "number": null,
+   "names": {
+    "en": "King of Swords",
+    "zh-cn": "宝剑国王",
+    "zh-tw": "寶劍國王",
+    "ja": "ソードのキング",
+    "ko": "소드 킹"
+   },
+   "aliases": {},
+   "element": "air",
+   "astro": null,
+   "hebrew": null,
+   "image": "/r2/tarot/rws/600/king-of-swords.webp",
+   "thumb": "/r2/tarot/rws/240/king-of-swords.webp"
+  },
+  {
+   "slug": "ace-of-pentacles",
+   "no": 64,
+   "arcana": "minor",
+   "suit": "pentacles",
+   "rank": "ace",
+   "number": 1,
+   "names": {
+    "en": "Ace of Pentacles",
+    "zh-cn": "星币王牌",
+    "zh-tw": "星幣王牌",
+    "ja": "ペンタクルのエース",
+    "ko": "펜타클 에이스"
+   },
+   "aliases": {
+    "zh-cn": [
+     "钱币王牌"
+    ],
+    "zh-tw": [
+     "錢幣王牌"
+    ]
+   },
+   "element": "earth",
+   "astro": {
+    "kind": "root",
+    "key": "earth"
+   },
+   "hebrew": null,
+   "image": "/r2/tarot/rws/600/ace-of-pentacles.webp",
+   "thumb": "/r2/tarot/rws/240/ace-of-pentacles.webp"
+  },
+  {
+   "slug": "two-of-pentacles",
+   "no": 65,
+   "arcana": "minor",
+   "suit": "pentacles",
+   "rank": "two",
+   "number": 2,
+   "names": {
+    "en": "Two of Pentacles",
+    "zh-cn": "星币二",
+    "zh-tw": "星幣二",
+    "ja": "ペンタクルの2",
+    "ko": "펜타클 2"
+   },
+   "aliases": {
+    "zh-cn": [
+     "钱币二"
+    ],
+    "zh-tw": [
+     "錢幣二"
+    ]
+   },
+   "element": "earth",
+   "astro": {
+    "kind": "decan",
+    "planet": "jupiter",
+    "sign": "capricorn",
+    "degrees": "0-10"
+   },
+   "hebrew": null,
+   "image": "/r2/tarot/rws/600/two-of-pentacles.webp",
+   "thumb": "/r2/tarot/rws/240/two-of-pentacles.webp"
+  },
+  {
+   "slug": "three-of-pentacles",
+   "no": 66,
+   "arcana": "minor",
+   "suit": "pentacles",
+   "rank": "three",
+   "number": 3,
+   "names": {
+    "en": "Three of Pentacles",
+    "zh-cn": "星币三",
+    "zh-tw": "星幣三",
+    "ja": "ペンタクルの3",
+    "ko": "펜타클 3"
+   },
+   "aliases": {
+    "zh-cn": [
+     "钱币三"
+    ],
+    "zh-tw": [
+     "錢幣三"
+    ]
+   },
+   "element": "earth",
+   "astro": {
+    "kind": "decan",
+    "planet": "mars",
+    "sign": "capricorn",
+    "degrees": "10-20"
+   },
+   "hebrew": null,
+   "image": "/r2/tarot/rws/600/three-of-pentacles.webp",
+   "thumb": "/r2/tarot/rws/240/three-of-pentacles.webp"
+  },
+  {
+   "slug": "four-of-pentacles",
+   "no": 67,
+   "arcana": "minor",
+   "suit": "pentacles",
+   "rank": "four",
+   "number": 4,
+   "names": {
+    "en": "Four of Pentacles",
+    "zh-cn": "星币四",
+    "zh-tw": "星幣四",
+    "ja": "ペンタクルの4",
+    "ko": "펜타클 4"
+   },
+   "aliases": {
+    "zh-cn": [
+     "钱币四"
+    ],
+    "zh-tw": [
+     "錢幣四"
+    ]
+   },
+   "element": "earth",
+   "astro": {
+    "kind": "decan",
+    "planet": "sun",
+    "sign": "capricorn",
+    "degrees": "20-30"
+   },
+   "hebrew": null,
+   "image": "/r2/tarot/rws/600/four-of-pentacles.webp",
+   "thumb": "/r2/tarot/rws/240/four-of-pentacles.webp"
+  },
+  {
+   "slug": "five-of-pentacles",
+   "no": 68,
+   "arcana": "minor",
+   "suit": "pentacles",
+   "rank": "five",
+   "number": 5,
+   "names": {
+    "en": "Five of Pentacles",
+    "zh-cn": "星币五",
+    "zh-tw": "星幣五",
+    "ja": "ペンタクルの5",
+    "ko": "펜타클 5"
+   },
+   "aliases": {
+    "zh-cn": [
+     "钱币五"
+    ],
+    "zh-tw": [
+     "錢幣五"
+    ]
+   },
+   "element": "earth",
+   "astro": {
+    "kind": "decan",
+    "planet": "mercury",
+    "sign": "taurus",
+    "degrees": "0-10"
+   },
+   "hebrew": null,
+   "image": "/r2/tarot/rws/600/five-of-pentacles.webp",
+   "thumb": "/r2/tarot/rws/240/five-of-pentacles.webp"
+  },
+  {
+   "slug": "six-of-pentacles",
+   "no": 69,
+   "arcana": "minor",
+   "suit": "pentacles",
+   "rank": "six",
+   "number": 6,
+   "names": {
+    "en": "Six of Pentacles",
+    "zh-cn": "星币六",
+    "zh-tw": "星幣六",
+    "ja": "ペンタクルの6",
+    "ko": "펜타클 6"
+   },
+   "aliases": {
+    "zh-cn": [
+     "钱币六"
+    ],
+    "zh-tw": [
+     "錢幣六"
+    ]
+   },
+   "element": "earth",
+   "astro": {
+    "kind": "decan",
+    "planet": "moon",
+    "sign": "taurus",
+    "degrees": "10-20"
+   },
+   "hebrew": null,
+   "image": "/r2/tarot/rws/600/six-of-pentacles.webp",
+   "thumb": "/r2/tarot/rws/240/six-of-pentacles.webp"
+  },
+  {
+   "slug": "seven-of-pentacles",
+   "no": 70,
+   "arcana": "minor",
+   "suit": "pentacles",
+   "rank": "seven",
+   "number": 7,
+   "names": {
+    "en": "Seven of Pentacles",
+    "zh-cn": "星币七",
+    "zh-tw": "星幣七",
+    "ja": "ペンタクルの7",
+    "ko": "펜타클 7"
+   },
+   "aliases": {
+    "zh-cn": [
+     "钱币七"
+    ],
+    "zh-tw": [
+     "錢幣七"
+    ]
+   },
+   "element": "earth",
+   "astro": {
+    "kind": "decan",
+    "planet": "saturn",
+    "sign": "taurus",
+    "degrees": "20-30"
+   },
+   "hebrew": null,
+   "image": "/r2/tarot/rws/600/seven-of-pentacles.webp",
+   "thumb": "/r2/tarot/rws/240/seven-of-pentacles.webp"
+  },
+  {
+   "slug": "eight-of-pentacles",
+   "no": 71,
+   "arcana": "minor",
+   "suit": "pentacles",
+   "rank": "eight",
+   "number": 8,
+   "names": {
+    "en": "Eight of Pentacles",
+    "zh-cn": "星币八",
+    "zh-tw": "星幣八",
+    "ja": "ペンタクルの8",
+    "ko": "펜타클 8"
+   },
+   "aliases": {
+    "zh-cn": [
+     "钱币八"
+    ],
+    "zh-tw": [
+     "錢幣八"
+    ]
+   },
+   "element": "earth",
+   "astro": {
+    "kind": "decan",
+    "planet": "sun",
+    "sign": "virgo",
+    "degrees": "0-10"
+   },
+   "hebrew": null,
+   "image": "/r2/tarot/rws/600/eight-of-pentacles.webp",
+   "thumb": "/r2/tarot/rws/240/eight-of-pentacles.webp"
+  },
+  {
+   "slug": "nine-of-pentacles",
+   "no": 72,
+   "arcana": "minor",
+   "suit": "pentacles",
+   "rank": "nine",
+   "number": 9,
+   "names": {
+    "en": "Nine of Pentacles",
+    "zh-cn": "星币九",
+    "zh-tw": "星幣九",
+    "ja": "ペンタクルの9",
+    "ko": "펜타클 9"
+   },
+   "aliases": {
+    "zh-cn": [
+     "钱币九"
+    ],
+    "zh-tw": [
+     "錢幣九"
+    ]
+   },
+   "element": "earth",
+   "astro": {
+    "kind": "decan",
+    "planet": "venus",
+    "sign": "virgo",
+    "degrees": "10-20"
+   },
+   "hebrew": null,
+   "image": "/r2/tarot/rws/600/nine-of-pentacles.webp",
+   "thumb": "/r2/tarot/rws/240/nine-of-pentacles.webp"
+  },
+  {
+   "slug": "ten-of-pentacles",
+   "no": 73,
+   "arcana": "minor",
+   "suit": "pentacles",
+   "rank": "ten",
+   "number": 10,
+   "names": {
+    "en": "Ten of Pentacles",
+    "zh-cn": "星币十",
+    "zh-tw": "星幣十",
+    "ja": "ペンタクルの10",
+    "ko": "펜타클 10"
+   },
+   "aliases": {
+    "zh-cn": [
+     "钱币十"
+    ],
+    "zh-tw": [
+     "錢幣十"
+    ]
+   },
+   "element": "earth",
+   "astro": {
+    "kind": "decan",
+    "planet": "mercury",
+    "sign": "virgo",
+    "degrees": "20-30"
+   },
+   "hebrew": null,
+   "image": "/r2/tarot/rws/600/ten-of-pentacles.webp",
+   "thumb": "/r2/tarot/rws/240/ten-of-pentacles.webp"
+  },
+  {
+   "slug": "page-of-pentacles",
+   "no": 74,
+   "arcana": "minor",
+   "suit": "pentacles",
+   "rank": "page",
+   "number": null,
+   "names": {
+    "en": "Page of Pentacles",
+    "zh-cn": "星币侍从",
+    "zh-tw": "星幣侍從",
+    "ja": "ペンタクルのペイジ",
+    "ko": "펜타클 페이지"
+   },
+   "aliases": {
+    "zh-cn": [
+     "钱币侍从"
+    ],
+    "zh-tw": [
+     "錢幣侍從"
+    ]
+   },
+   "element": "earth",
+   "astro": null,
+   "hebrew": null,
+   "image": "/r2/tarot/rws/600/page-of-pentacles.webp",
+   "thumb": "/r2/tarot/rws/240/page-of-pentacles.webp"
+  },
+  {
+   "slug": "knight-of-pentacles",
+   "no": 75,
+   "arcana": "minor",
+   "suit": "pentacles",
+   "rank": "knight",
+   "number": null,
+   "names": {
+    "en": "Knight of Pentacles",
+    "zh-cn": "星币骑士",
+    "zh-tw": "星幣騎士",
+    "ja": "ペンタクルのナイト",
+    "ko": "펜타클 나이트"
+   },
+   "aliases": {
+    "zh-cn": [
+     "钱币骑士"
+    ],
+    "zh-tw": [
+     "錢幣騎士"
+    ]
+   },
+   "element": "earth",
+   "astro": null,
+   "hebrew": null,
+   "image": "/r2/tarot/rws/600/knight-of-pentacles.webp",
+   "thumb": "/r2/tarot/rws/240/knight-of-pentacles.webp"
+  },
+  {
+   "slug": "queen-of-pentacles",
+   "no": 76,
+   "arcana": "minor",
+   "suit": "pentacles",
+   "rank": "queen",
+   "number": null,
+   "names": {
+    "en": "Queen of Pentacles",
+    "zh-cn": "星币王后",
+    "zh-tw": "星幣王后",
+    "ja": "ペンタクルのクイーン",
+    "ko": "펜타클 퀸"
+   },
+   "aliases": {
+    "zh-cn": [
+     "钱币王后"
+    ],
+    "zh-tw": [
+     "錢幣王后"
+    ]
+   },
+   "element": "earth",
+   "astro": null,
+   "hebrew": null,
+   "image": "/r2/tarot/rws/600/queen-of-pentacles.webp",
+   "thumb": "/r2/tarot/rws/240/queen-of-pentacles.webp"
+  },
+  {
+   "slug": "king-of-pentacles",
+   "no": 77,
+   "arcana": "minor",
+   "suit": "pentacles",
+   "rank": "king",
+   "number": null,
+   "names": {
+    "en": "King of Pentacles",
+    "zh-cn": "星币国王",
+    "zh-tw": "星幣國王",
+    "ja": "ペンタクルのキング",
+    "ko": "펜타클 킹"
+   },
+   "aliases": {
+    "zh-cn": [
+     "钱币国王"
+    ],
+    "zh-tw": [
+     "錢幣國王"
+    ]
+   },
+   "element": "earth",
+   "astro": null,
+   "hebrew": null,
+   "image": "/r2/tarot/rws/600/king-of-pentacles.webp",
+   "thumb": "/r2/tarot/rws/240/king-of-pentacles.webp"
+  }
+ ]
+}
